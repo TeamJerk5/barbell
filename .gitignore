@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+out/
+result/
+
+# 모델 가중치 — GitHub에 올리지 않음. README의 다운로드 안내 참고.
+*.pt

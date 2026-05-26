@@ -1,0 +1,11 @@
+torch>=2.0
+torchvision
+ultralytics>=8.0
+opencv-python>=4.8
+numpy
+pandas
+openpyxl
+einops
+imageio
+imageio-ffmpeg
+tqdm
